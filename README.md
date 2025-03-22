@@ -12,6 +12,7 @@ You can get your invite [here](http://slack.k8s.io/)
 - **Continuous integration tests**
 
 ## Quick Start
+## By Mudassir Alam
 
 Below are several ways to use Kubespray to deploy a Kubernetes cluster.
 
